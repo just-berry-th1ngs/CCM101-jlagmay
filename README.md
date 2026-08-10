@@ -2,7 +2,7 @@
 
 ### Hi, I'm John Arvin Lagmay
 
-A student currently learning **Linux System Administration** and **Cloud Computing**, documenting my journey one checkpoint at a time.
+A student currently learning **Linux System Administration** and **Cloud Computing**.
 
 ---
 
