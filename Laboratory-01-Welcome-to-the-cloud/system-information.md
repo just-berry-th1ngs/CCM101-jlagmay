@@ -1,7 +1,7 @@
 # Checkpoint 2 - System Information
 
 ## Linux Distro
-```
+```ini
 PRETTY_NAME="Ubuntu 24.04.4 LTS"
 NAME="Ubuntu"
 VERSION_ID="24.04"
@@ -18,12 +18,12 @@ LOGO=ubuntu-logo
 ```
 
 ## Kernel Version
-```
+```text
 6.8.0-136-generic
 ```
 
 ## CPU Info
-```
+```yaml
 Architecture:                            x86_64
 CPU op-mode(s):                          32-bit, 64-bit
 Address sizes:                           39 bits physical, 48 bits virtual
@@ -68,14 +68,14 @@ Vulnerability Vmscape:                   Not affected
 ```
 
 ## Total Memory
-```
+```text
                total        used        free      shared  buff/cache   available
 Mem:           1.9Gi       426Mi       814Mi       1.1Mi       830Mi       1.4Gi
 Swap:          1.0Gi          0B       1.0Gi
 ```
 
 ## Available Disk Space
-```
+```text
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs           191M 1012K  190M   1% /run
 /dev/vda1        19G  5.4G   13G  30% /
