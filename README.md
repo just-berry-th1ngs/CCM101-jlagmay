@@ -1,4 +1,4 @@
-# 👋 CCM101 - Cloud Computing Portfolio
+#  CCM101 - Cloud Computing Portfolio
 
 ### Hi, I'm John Arvin Lagmay
 
@@ -6,18 +6,11 @@ A student currently learning **Linux System Administration** and **Cloud Computi
 
 ---
 
-## 📁 About This Repository
+##  About This Repository
 
 This repository serves as my **Cloud Computing Portfolio** for **CCM101**. It contains all laboratory activities, technical documentation, screenshots, and reflections completed throughout the semester — built and maintained using Linux, Git, and GitHub as part of hands-on cloud engineering practice.
 
-## 🧭 What You'll Find Here
-
-- ✅ Hands-on Linux system administration exercises
-- ✅ Step-by-step lab documentation written in Markdown
-- ✅ Evidence screenshots for every completed activity
-- ✅ Reflections on skills learned throughout the course
-
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```text
 CCM101-jlagmay
