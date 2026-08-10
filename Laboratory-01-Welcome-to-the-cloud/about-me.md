@@ -4,4 +4,6 @@
 - Role: Student
 - Currently Learning: Linux System Administration
 - Environment: Killercoda Ubuntu Server
-- Hobbies: Playing Guitar, Reading Novels, Sleeping
+- Hobbies: Playing Guitar, Reading Novels, Sleeping, Playing Games
+- Preferred Genres: RomCom, Thriller, Mystery, Solving
+  
