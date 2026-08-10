@@ -26,3 +26,4 @@ a documented, version-controlled workspace using KillerCoda and GitHub.
 ## Skills Learned
 I learned how to create and manage Linux users, gather system diagnostics, and use Git/GitHub for
 version control and documentation.
+
