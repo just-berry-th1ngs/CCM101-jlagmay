@@ -11,7 +11,7 @@
 
 **1. Which cloud provider offers the broadest range of services? Explain your answer.**
 
-Amazon Web Services offers the broadest range of services among major cloud providers. This is because AWS launched years ahead of its competitors, giving it more time to build out its catalog — it now offers around 250 primary cloud services, surpassing both Azure and Google Cloud in niche capabilities. AWS also provides the widest array of specific instance types.
+Amazon Web Services offers the broadest range of services among major cloud providers. This is because AWS launched years ahead of its competitors, giving it more time to build out its catalog, it now offers around 250 primary cloud services, surpassing both Azure and Google Cloud in niche capabilities. AWS also provides the widest array of specific instance types.
 
 **2. Which cloud platform would you recommend for an organization that primarily uses Microsoft products? Why?**
 
