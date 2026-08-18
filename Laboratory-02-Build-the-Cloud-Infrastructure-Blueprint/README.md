@@ -22,7 +22,7 @@ raw investigation findings.
 - KillerCoda Playground (Linux terminal)
 - Git / GitHub
 - Markdown
-- [Diagramming tool you used — e.g. Draw.io]
+- Draw.io (for the cloud architecture diagram)
 
 ## Linux Commands Executed
 - `cat /etc/os-release`
@@ -34,9 +34,7 @@ raw investigation findings.
 - `hostname` / `hostname -I`
 
 ## Skills Learned
-[Write 2-3 sentences — e.g. reading system info from Linux, comparing cloud provider
-services, documenting infrastructure professionally, using Git for version control.]
+This lab helped me get comfortable extracting system information directly from the Linux command line rather than relying on a GUI. I also practiced translating raw command output into structured, professional documentation, and researched how AWS, Azure, and GCP each name their equivalent infrastructure services.
 
 ## Challenges Encountered
-[Write 2-3 sentences on any difficulties you ran into — e.g. the git push rejection
-you hit earlier and how you resolved it with git pull, or anything else.]
+While pushing changes to GitHub, I ran into a rejected push because my local branch and the remote had diverged. I resolved it by setting a merge strategy with `git config pull.rebase false`, pulling the remote changes with `git pull origin main`, and then pushing again successfully.
