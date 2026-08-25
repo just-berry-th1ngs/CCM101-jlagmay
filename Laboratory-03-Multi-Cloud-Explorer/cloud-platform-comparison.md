@@ -14,6 +14,7 @@
 
 ## Reflection Questions
 
+
 **1. Which cloud provider offers the broadest range of services?**
 AWS offers the broadest range of services, with over 200 offerings covering nearly every compute, storage, and networking need. Its long head start since 2006 has let it build out the deepest and widest catalog of any provider.
 
