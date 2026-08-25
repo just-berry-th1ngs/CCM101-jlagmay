@@ -7,3 +7,6 @@ At the same time, researching AWS, Azure, and GCP side by side showed how much t
 That distinction became clearest during the client recommendation challenge. Working through four very different client scenarios — a startup, a university already using Microsoft tools, an AI research company, and a global e-commerce business — taught me that business requirements should drive the platform choice, not popularity or personal preference. A university already running Windows Server and Active Directory gets more value from Azure's native integration than from AWS's broader catalog, even though AWS is the "bigger" platform overall. This is the core lesson from acting as a Cloud Solutions Consultant: the best platform depends entirely on the client's existing environment, budget, and technical needs.
 
 Finally, this mission noticeably improved my GitHub Cloud Computing Portfolio. It now includes structured research documentation, a full service comparison table, a client recommendation matrix, and evidence from hands-on Linux investigation — moving it from a simple collection of notes toward something that resembles real technical consulting documentation.
+
+
+
