@@ -25,4 +25,4 @@ The **AWS Management Console** is a web-based interface for provisioning and mon
 - Big data analytics and data lakes.
 - Enterprise workload migration and disaster recovery.
 
-*(Insert screenshot: screenshots/aws-homepage.png)*
+![AWS Homepage](screenshots/aws-homepage.png)

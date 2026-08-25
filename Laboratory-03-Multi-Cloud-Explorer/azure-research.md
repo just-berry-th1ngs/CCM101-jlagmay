@@ -25,4 +25,4 @@ The **Azure Portal** is the primary web-based management interface, complemented
 - Enterprise line-of-business application hosting.
 - Business intelligence workloads via Power BI and Azure Synapse Analytics.
 
-*(Insert screenshot: screenshots/azure-homepage.png)*
+![Azure Homepage](screenshots/azure-homepage.png)

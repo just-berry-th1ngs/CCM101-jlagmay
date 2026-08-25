@@ -25,4 +25,4 @@ The **Google Cloud Console** is the web-based management interface, alongside th
 - Container-native and Kubernetes-based application deployment.
 - Global-scale applications needing Google's private backbone network.
 
-*(Insert screenshot: screenshots/gcp-homepage.png)*
+![GCP Homepage](screenshots/gcp-homepage.png)

@@ -19,4 +19,4 @@ Given the modest specs (1 vCPU, ~2 GB RAM, ~20 GB disk), this server could be ho
 
 All three options let the server be resized later (more vCPUs, RAM, or disk) if the workload grows, without needing to rebuild the server from scratch.
 
-*(Insert screenshot: screenshots/killercoda-terminal.png)*
+![KillerCoda Terminal Output](screenshots/killercoda-terminal.png)
