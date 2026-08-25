@@ -24,4 +24,14 @@ Microsoft Azure integrates most naturally with Microsoft technologies, since it 
 Google Cloud Platform is generally considered strongest here, since Google created Kubernetes and Google Kubernetes Engine (GKE) is the most mature managed offering. GCP's Vertex AI and TPU hardware also give it an edge for AI/ML workloads.
 
 **4. Which cloud platform would you personally choose and why?**
-*(Write your own answer here — base it on which platform you found easiest to understand, most interesting, or best documented during your own research.)*
+I would personally choose AWS. It has the broadest range of services and the most extensive documentation and community support of the three, which makes it feel like the industry standard for cloud computing. That maturity and depth of resources would make it easier to find help, tutorials, and best practices as I continue learning.
+
+## Service Matching Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
