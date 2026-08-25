@@ -1,6 +1,4 @@
-# CCM101 Laboratory 3: Multi-Cloud Explorer
-
-## Linux Investigation (Checkpoint 7)
+## Linux Investigation
 
 Using a KillerCoda Ubuntu playground, the following system information was collected:
 
