@@ -18,3 +18,5 @@ Containers let you run more apps on the same servers, because they share one ope
 1. Docker. "What is a Container?" https://www.docker.com/resources/what-container/
 2. Amazon Web Services. "What's the Difference Between Containers and Virtual Machines?" https://aws.amazon.com/compare/the-difference-between-containers-and-virtual-machines/
 3. IBM. "Containers vs. Virtual Machines (VMs): What's the Difference?" https://www.ibm.com/think/topics/containers-vs-vms
+
+AI assistance: used Claude to review my draft for accuracy and grammar
