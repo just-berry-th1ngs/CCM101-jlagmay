@@ -2,7 +2,7 @@
 
 ## Mission Overview
 
-In this lab, I acted as a Cloud Operations Engineer at CloudNova Technologies. I checked the health of a Linux server, deployed an Nginx container, sent test traffic, and used logs and metrics to show the application is healthy.
+In this lab,I checked the health of a Linux server, deployed an Nginx container, sent test traffic, and used logs and metrics to show the application is healthy.
 
 ## Objectives
 
