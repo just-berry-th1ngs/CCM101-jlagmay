@@ -1,52 +1,29 @@
-# Final Reflection: Mission 1 to Mission 10
-
-**Name:** [your name]
-**Course:** CCM101 Cloud Computing
-
-> This is a template. Write each part in your own words, from your own experience.
-> Delete the questions and these notes when you are done.
-> Keep it short and simple. A few sentences under each heading is enough.
-
----
+# Final Reflection
 
 ## 1. Where I started
 
-*Questions to think about: What did I know about Linux and the cloud at Mission 1? What was new or hard at the start?*
-
-[Write here]
+At Mission 1, my knowledge of Linux and cloud computing was still basic. I was learning how to use terminal commands and understand how cloud systems work. At first, remembering commands and understanding their purposes were challenging.
 
 ## 2. What I learned along the way
 
-*Questions: What did I learn in the middle missions (Linux commands, Docker, storage, scripts)? Which mission taught me the most, and why?*
-
-[Write here]
+Throughout the missions, I learned Linux commands, file permissions, virtualization, Docker, storage management, and Bash scripting. I also learned how to schedule tasks using cron. Mission 10 taught me the most because I had to combine the concepts from previous missions into one working infrastructure.
 
 ## 3. What I built in Mission 10
 
-*Questions: What did I build (the stack, the VM, the firewall, the backup)? Why did I choose these parts? What does each part do in my own words?*
-
-[Write here]
+I built a cloud environment using Ubuntu Server in VirtualBox. I deployed Ghost and MySQL using Docker Compose, configured persistent volumes, and secured the server with UFW. I also created a Bash script for database backups and scheduled it to run every night at 2:00 AM. Each component helps keep the application organized, secure, and easier to maintain.
 
 ## 4. Problems I faced and how I fixed them
 
-*Questions: What went wrong (for example the network, the host key warning, the slow VM, the restore)? How did I find the cause? What did I do to fix it?*
-
-[Write here]
+I faced challenges with server connections, container startup, and database restoration. I checked the container status, reviewed logs, and verified the server configuration to identify possible causes. I learned to troubleshoot problems step by step instead of immediately restarting or changing everything.
 
 ## 5. What I would improve
 
-*Questions: If the client used this for real, what is missing? (For example: off-site backups, HTTPS, monitoring.) What would I do next?*
-
-[Write here]
+I would improve the system by adding off-site backups, HTTPS, and monitoring with alerts. I would also strengthen SSH security and include backups for Ghost content. These improvements would help protect the data and make the system more suitable for actual use.
 
 ## 6. How I used AI
 
-*Questions: Where did I use AI (ideas, explaining commands, fixing errors)? What did I do myself? What did I check or change on my own?*
-
-[Write here]
+I used AI to understand commands, clarify technical concepts, and help troubleshoot errors. I still needed to run the commands, configure the virtual machine, test the application, and verify the results myself. This helped me understand how AI supports technical work while leaving the actual implementation and validation to me.
 
 ## 7. Final thoughts
 
-*Questions: What can I do now that I could not do at Mission 1? How will I use it?*
-
-[Write here]
+From Mission 1 to Mission 10, I learned how to work with Linux, deploy containerized applications, configure security, and automate backups. I now have a better understanding of how different parts of a cloud infrastructure connect and work together. I will use these skills in future projects, especially in system administration, cloud computing, and DevOps.
